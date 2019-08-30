@@ -1,1 +1,2 @@
 print("Новый текстовый документ1111")
+print("Hello my dear friend")
