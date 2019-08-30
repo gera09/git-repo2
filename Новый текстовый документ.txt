@@ -1,3 +1,5 @@
-print("Новый текстовый документ1111;++")
+print("Новый текстовый документ1111++;")
 print("Hello my dear friend;++")
 print("Glad to see you;++")
+
+print("GOOD AFTER NOON;++")
